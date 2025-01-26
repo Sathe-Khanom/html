@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    height: 15vh;
+    width: auto;
+    background-color: bisque;
+}
+#navleft{
+    width: 10%;
+    float: left;
+}
+#navleft img{
+    display: block;
+    width: 10%;
+    margin: auto;
+}
+#navright{
+    width: 90%;
+    float: left;
+    display: block;
+    background-color: aquamarine;
+    color: blue;
+}
