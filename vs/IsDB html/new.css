@@ -2,3 +2,32 @@
     margin: 0px;
     padding: 0px;
 }
+nav{
+    background-color: deepskyblue;
+    width: 100%;
+    color: aliceblue;
+    height: 20vh;
+}
+#left img{
+    width: 5%;
+    float:none
+    padding: 5px;
+    display: block;
+}
+#nav left{
+    text-align: justify;
+    width: 20%;
+
+
+}
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+ }
