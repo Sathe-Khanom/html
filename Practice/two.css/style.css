@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    height: 15vh;
+    width: auto;
+    background-color: aquamarine;
+    text-align: center;
+    margin-top: 0px;
+    
+}
+
+#ONE{
+    align-content: center;
+    
+}
+
+#two ul li {
+    background-color: bisque;
+    display: block;
+    padding: 0px;
+    height: 80vh;
+    width: 15%
+    
+}
+#content{
+text-align:right
+height: 80vh;
+width: 85%
+
+}
+iframe{
+    height: inherit;
+    display: block;
+}
+footer{
+    text-align: center;
+    padding-top: 5px;
+    background-color: darkseagreen;
+}
+
+
