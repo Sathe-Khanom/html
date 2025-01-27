@@ -8,13 +8,13 @@ nav{
     color: aliceblue;
     height: 20vh;
 }
-#left img{
+#leftimg{
     width: 5%;
     float:none
     padding: 5px;
     display: block;
 }
-#nav left{
+#navleft{
     text-align: justify;
     width: 20%;
 
