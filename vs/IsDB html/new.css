@@ -8,23 +8,35 @@ nav{
     color: aliceblue;
     height: 20vh;
 }
+#navleft{
+    width: 30%;
+    float: left;
+}
+
 #left img{
     width: 5%;
-    float:none
-    padding: 5px;
+   align-content: center;
     display: block;
+    margin: 10px 10px 10px 10px;
 }
-#nav left{
+/* #nav left{
     text-align: justify;
-    width: 20%;
+    width: 20%; */
 
 
+#navright{
+    width: 70%;
+    display: block;
+    float: left;
+    margin-top: 35px;
 }
- ul {
+
+
+#navright ul li {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+  margin-left: 20px;
+  padding: 10px;
+ display: block;
  
 }
 
