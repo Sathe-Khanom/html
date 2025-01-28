@@ -8,18 +8,26 @@ nav{
     color: aliceblue;
     height: 20vh;
 }
+<<<<<<< HEAD
 #navleft{
     width: 30%;
     float: left;
 }
 
 #left img{
+=======
+#leftimg{
+>>>>>>> 4816310bb812b8ebc765cadf1b8cbdbd41ca8ef9
     width: 5%;
    align-content: center;
     display: block;
     margin: 10px 10px 10px 10px;
 }
+<<<<<<< HEAD
 /* #nav left{
+=======
+#navleft{
+>>>>>>> 4816310bb812b8ebc765cadf1b8cbdbd41ca8ef9
     text-align: justify;
     width: 20%; */
 
